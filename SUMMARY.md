@@ -11,4 +11,4 @@
 * [第三章](part3/README.md)
 * [第四章](part4/README.md)
 * [第五章](part5/README.md)
-* [第六章](ch03.md)
+* [第六六章](ch02.md)
